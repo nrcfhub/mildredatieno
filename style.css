@@ -1,8 +1,11 @@
-.nav-bar dispay
+.nav-bar p{
+
 font-size:30px;
 colour:pink:
+}
 
+.nav-bar{
+	justify-content: space-between;
+	display: flex;
 
-.nav-bar
-dispay: flex
-justify content: space-between;
+}
